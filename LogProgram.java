@@ -25,6 +25,8 @@ public class LogProgram {
     	//set length of log to a random default
     	//float = decimal with less places
         float lengthOfLog=0;
+        //double lengthOfLogs     as an integer
+        //.nextDouble(); // Scans input as an int
     	
         
         //while appropriate response has not been collected
