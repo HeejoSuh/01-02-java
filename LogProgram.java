@@ -36,7 +36,7 @@ public class LogProgram {
     				+ " 1m): ");
     	
     		//set new length of log
-        	lengthOfLog = scanner.nextDouble();// Scans input as an int
+        	lengthOfLog = scanner.nextDouble();// Scans input
     		
     			//if appropriate response has been collected
     			if (lengthOfLog==0.25 || lengthOfLog==0.5 || lengthOfLog== 1)
