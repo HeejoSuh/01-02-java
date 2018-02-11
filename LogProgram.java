@@ -44,7 +44,7 @@ public class LogProgram {
 				
 				//Convert string to double
 				lengthOfLog = Double.parseDouble(input);
-				//ø©±‚ æ»ø°¥Ÿ «“∞≈ ≥÷¿∏∏È operate µ .
+				//Ïó¨Í∏∞ ÏïàÏóêÎã§ Ìï†Í±∞ ÎÑ£ÏúºÎ©¥ operate Îê®.
 				
 				//check if appropriate response has been collected-----------
 				if (lengthOfLog==0.25 || lengthOfLog==0.5 || lengthOfLog== 1){
@@ -60,7 +60,6 @@ public class LogProgram {
 			} catch (NumberFormatException stringInput) {
 				//if not number then
 				System.out.println("ERROR:\nPut in a numeric value. TRY AGAIN. \n\n");
-				break; //break out of while function so does not display 2 error messages
 			}
 			
 		}
