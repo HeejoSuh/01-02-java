@@ -24,7 +24,7 @@ public class LogProgram {
     	
     	//set length of log to a random default
     	//float = decimal with less places
-    	//double= integer
+    	//double= decimal with more places
         double lengthOfLog=0;
     	
         
